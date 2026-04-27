@@ -1,0 +1,9 @@
+{
+  "sign": "MY_FORMAT",
+  "version": "1.0",
+  "items": [
+    {"type": "int", "data": "2a000000"},
+    {"type": "float", "data": "c3f54840"},
+    {"type": "string", "data": "48656c6c6f2042696e617279"}
+  ]
+}

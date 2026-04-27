@@ -1,0 +1,10 @@
+<root>
+  <sign>MY_FORMAT</sign>
+  <version>1.0</version>
+  <size>3</size>
+  <items>
+    <item type="int">KgAAAA==</item>
+    <item type="float">w/VIQA==</item>
+    <item type="string">SGVsbG8gQmluYXJ5</item>
+  </items>
+</root>
